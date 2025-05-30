@@ -1,0 +1,7 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.2",
+        "cboden/ratchet": "^0.4.4",
+        "phpoffice/phpspreadsheet": "^4.2"
+    }
+}

@@ -1,0 +1,13 @@
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(100) NOT NULL,
+    correo VARCHAR(100) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    tipo_usuario ENUM('admin', 'comun') NOT NULL DEFAULT 'comun',
+    activo TINYINT(1) NOT NULL DEFAULT 1,
+    creado_en TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE rrhh_reloj ( id INT AUTO_INCREMENT PRIMARY KEY, legajo VARCHAR(20) NOT NULL, 
+nombre VARCHAR(100) NOT NULL, fecha_hora DATETIME NOT NULL, tipo_origen ENUM('hikvision', 'gadnic')
+ NOT NULL, creado_en TIMESTAMP DEFAULT CURRENT_TIMESTAMP );
