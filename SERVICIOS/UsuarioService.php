@@ -25,22 +25,23 @@ class UsuarioService
     }
 
 
-public function lista_asistencia()
+    public function lista_asistencia()
     {
-        $sql="SELECT usua.legajo, usua.nombre,  reloj.fecha_hora as fechaHora, 
-                    CASE 
-                            WHEN reloj.fecha_hora IS NULL THEN 'No registra'
-                            WHEN TIME(reloj.fecha_hora) BETWEEN '07:00:00' AND '08:10:00' THEN 'OK'
-                            WHEN TIME(reloj.fecha_hora) > '08:10:00' THEN 'TARDE'
-                            ELSE 'No registra'
-                        END AS estado
-                FROM usuarios usua 
-                LEFT JOIN rrhh_reloj reloj on reloj.legajo = usua.legajo
-              WHERE usua.activo=1 AND ";
+            $sql="SELECT usua.legajo, usua.nombre,  reloj.fecha_hora as fechaHora, 
+                        CASE 
+                                WHEN reloj.fecha_hora IS NULL THEN 'No registra'
+                                WHEN TIME(reloj.fecha_hora) BETWEEN '07:00:00' AND '08:10:00' THEN 'OK'
+                                WHEN TIME(reloj.fecha_hora) > '08:10:00' THEN 'TARDE'
+                                ELSE 'No registra'
+                            END AS estado
+                    FROM usuarios usua 
+                    LEFT JOIN rrhh_reloj reloj on reloj.legajo = usua.legajo 
+                    AND DATE(reloj.fecha_hora) BETWEEN ? AND ?
+                WHERE usua.activo=1";
 
-        return $this->dbHandler->querySrting($sql); 
+            return $this->dbHandler->querySrting($sql); 
     }
-    public function get($condiciones)
+   /* public function get($condiciones)
     {
         return  $this->dbHandler->get($this->table, $condiciones);
     }
@@ -208,6 +209,6 @@ public function lista_asistencia()
         }
 
         return array_values($ventas);
-    }
+    }*/
 
 }

@@ -14,10 +14,13 @@ class PagoController extends BaseController
         $Pago = new PagoService();
         $salida_error = new salidaError();
         $salida = new salida_error();
+
         if ($method === 'post') {
+
             $var = $this->PostFromData();
+            
             try {
-        writeLog("PagoController.validarpago. POST ");
+            writeLog("PagoController.validarpago. POST ");
                 
                 $data = [
                          "event" => $var['event'],

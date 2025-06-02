@@ -1,3 +1,10 @@
-[2025-05-23 14:22:00] DocumentosController.importarPersonal. INIO 
-[2025-05-23 14:22:39] DocumentosController.importarPersonal. INIO 
-[2025-05-23 14:22:39] DocumentosController.importarPersonal. filas {}
+[2025-06-02 12:49:47] AsistenciaController.VerAsistencia. Inicio 
+[2025-06-02 12:49:47] AsistenciaController.VerAsistencia. por llamar a  lista_asistencia
+[2025-06-02 12:49:55] AsistenciaController.VerAsistencia. Inicio 
+[2025-06-02 12:49:55] AsistenciaController.VerAsistencia. por llamar a  lista_asistencia
+[2025-06-02 12:50:21] AsistenciaController.VerAsistencia. Inicio 
+[2025-06-02 12:50:21] AsistenciaController.VerAsistencia. por llamar a  lista_asistencia
+[2025-06-02 12:50:47] AsistenciaController.VerAsistencia. Inicio 
+[2025-06-02 12:50:47] AsistenciaController.VerAsistencia. por llamar a  lista_asistencia
+[2025-06-02 12:51:42] AsistenciaController.VerAsistencia. Inicio 
+[2025-06-02 12:51:42] AsistenciaController.VerAsistencia. por llamar a  lista_asistencia

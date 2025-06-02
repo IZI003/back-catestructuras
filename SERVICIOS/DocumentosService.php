@@ -168,7 +168,8 @@ class DocumentosService
     public function exportarPorFecha($fecha)
     {
         // Consultar registros
-        $sql = "SELECT legajo, nombre, fecha_hora FROM rrhh_reloj WHERE DATE(fecha_hora) = '".$fecha."'";
+        $sql = "SELECT legajo, nombre, fecha_hora FROM rrhh_reloj 
+        WHERE DATE(fecha_hora) = '".$fecha."' AND legajo ";
         //writeLog("DocumentosController.procesarArchivo. sql ".$sql);
         $registros = $this->dbHandler->querySrting($sql); 
 

@@ -29,7 +29,6 @@ class Routing
         if($method == "OPTIONS") {
             die();
         }
-
         
         if($this->controller != 'LoginController')
         { 
@@ -86,8 +85,9 @@ class Routing
                         array($salida->error->Descripcion, $salida->error->CodigoHttp)
                         );
                   }
-            } else
+        } else
             {
+
                 if (file_exists(__DIR__ . "/Controllers/{$this->controller}.php")) 
                 {
                     require_once __DIR__ . "/Controllers/{$this->controller}.php";
@@ -109,7 +109,7 @@ class Routing
                 }*/
                 
             }
-        }
+    }
         
     public function run()
     {

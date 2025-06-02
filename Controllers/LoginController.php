@@ -120,4 +120,5 @@ class LoginController extends BaseController
                 array($salida->error->Descripcion, $salida->error->CodigoHttp)
             );
     }
+    
 }
