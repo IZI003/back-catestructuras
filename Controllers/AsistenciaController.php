@@ -5,7 +5,7 @@ require_once __DIR__ . '/../MiLog.php';
 
 class AsistenciaController extends BaseController
 {
-    public function VerAsistencia($method)
+    public function VerAsistencia_rango_fecha($method)
     {
         $asistencia_serv = new AsistenciaService();
         $salida_error = new salidaError();
@@ -14,9 +14,6 @@ class AsistenciaController extends BaseController
         if ($method === 'get') {
 
             $var = $this->getQueryStringParams();
-
-            //if (isset($var['id_vendedor']) && $var['id_vendedor'] && isset($var['id_producto']) && $var['id_producto'] ) 
-            {
                  try 
                  {
                     writeLog("AsistenciaController.VerAsistencia. por llamar a  lista_asistencia");
@@ -36,7 +33,6 @@ class AsistenciaController extends BaseController
                     writeLog("AsistenciaController. ".$e->getMessage());
                     $salida = $salida_error->response(500, $e->getMessage());
                 }
-            }
         }
 
         $this->sendOutput(
@@ -45,6 +41,41 @@ class AsistenciaController extends BaseController
         );
     }
 
+    public function VerAsistencia_persona_mes($method)
+    {
+        $asistencia_serv = new AsistenciaService();
+        $salida_error = new salidaError();
+        $salida = new salida_error();
+        
+        if ($method === 'get') {
+
+            $var = $this->getQueryStringParams();
+                 try 
+                 {
+                    writeLog("AsistenciaController.VerAsistencia_persona_mes. por llamar a  lista_asistencia");
+
+                    $asistencias = $asistencia_serv->lista_asistencia_por_legajo($var['legajo'], $var['anio'], $var['mes']);
+                    
+                    if (!($asistencias)) {
+                        $salida = $salida_error->response(204, '');
+                    } 
+                    else {
+                        $salida = $salida_error->response(200, '');
+                        $salida->datos = $asistencias;
+                    }
+                    
+                } catch (Error $e) 
+                {
+                    writeLog("AsistenciaController. ".$e->getMessage());
+                    $salida = $salida_error->response(500, $e->getMessage());
+                }
+        }
+
+        $this->sendOutput(
+            json_encode($salida),
+            array($salida->error->Descripcion, $salida->error->CodigoHttp)
+        );
+    }
     public function Ver_lista_Personal($method)
     {
         $asistencia_serv = new AsistenciaService();
@@ -81,60 +112,55 @@ class AsistenciaController extends BaseController
         $asistencia_serv = new AsistenciaService();
         $salida_error = new salidaError();
         $salida = new salida_error();
-        
-        switch ($method)
+         $httpMethod = $_SERVER['REQUEST_METHOD']; 
+        switch ($httpMethod)
         {
             case 'delete':
-             {
-                 $uriSegments = $this->getUriSegments();
-                        foreach ($uriSegments as $segment) {
-                            if (is_numeric($segment)) {
-                                $id=(int)$segment;
-                                break;
+                    $uriSegments = $this->getUriSegments();
+                            foreach ($uriSegments as $segment) {
+                                if (is_numeric($segment)) {
+                                    $id=(int)$segment;
+                                    break;
+                                }
                             }
+                    try 
+                    {
+                        $asistencias = $asistencia_serv-> eliminar_Personal($id);
+                        if (!($asistencias)) {
+                            $salida = $salida_error->response(204, '');
+                        } 
+                        else {
+                            $salida = $salida_error->response(200, '');
+                            $salida->datos = $asistencias;
                         }
-                 try 
-                 {
-                    $asistencias = $asistencia_serv-> eliminar_Personal($id);
-                    if (!($asistencias)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $asistencias;
+                        
+                    } catch (Error $e) 
+                    {
+                        writeLog("AsistenciaController. ".$e->getMessage());
+                        $salida = $salida_error->response(500, $e->getMessage());
                     }
-                    
-                } catch (Error $e) 
-                {
-                    writeLog("AsistenciaController. ".$e->getMessage());
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            break;
-            case 'get':
-             {
-                $var = $this->getQueryStringParams();
+                break;
+            case 'GET':
+                    $var = $this->getQueryStringParams();
 
-                 try 
-                 {
-                    $asistencias = $asistencia_serv->ver_Personal($var['id_personal']);
-                    if (!($asistencias)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $asistencias;
+                    try 
+                    {
+                        $asistencias = $asistencia_serv->ver_Personal($var['id_personal']);
+                        if (!($asistencias)) {
+                            $salida = $salida_error->response(204, '');
+                        } 
+                        else {
+                            $salida = $salida_error->response(200, '');
+                            $salida->datos = $asistencias;
+                        }
+                        
+                    } catch (Error $e) 
+                    {
+                        writeLog("AsistenciaController. ".$e->getMessage());
+                        $salida = $salida_error->response(500, $e->getMessage());
                     }
-                    
-                } catch (Error $e) 
-                {
-                    writeLog("AsistenciaController. ".$e->getMessage());
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            break;
+                break;
             case 'update':
-             {
                 $var = $this->PutFromData();
                 $uriSegments = $this->getUriSegments();
                         foreach ($uriSegments as $segment) {
@@ -143,26 +169,24 @@ class AsistenciaController extends BaseController
                                 break;
                             }
                         }
-                 try 
-                 {
-                    $asistencias = $asistencia_serv->modificar_Personal($id_personal,$var['nombre'], $var['legajo'] );
-                    if (!($asistencias)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $asistencias;
+                    try 
+                    {
+                        $asistencias = $asistencia_serv->modificar_Personal($id_personal,$var['nombre'], $var['legajo'] );
+                        if (!($asistencias)) {
+                            $salida = $salida_error->response(204, '');
+                        } 
+                        else {
+                            $salida = $salida_error->response(200, '');
+                            $salida->datos = $asistencias;
+                        }
+                        
+                    } catch (Error $e) 
+                    {
+                        writeLog("AsistenciaController. ".$e->getMessage());
+                        $salida = $salida_error->response(500, $e->getMessage());
                     }
-                    
-                } catch (Error $e) 
-                {
-                    writeLog("AsistenciaController. ".$e->getMessage());
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            break;
-            case 'POST'
-            {
+                break;
+           /* case 'POST'
                 $var = $this->PostFromData();
                 try {
                     
@@ -172,7 +196,7 @@ class AsistenciaController extends BaseController
                     ];
 
                     $productos = $producto->postProductoUsuario($con);
-                    
+
                      if (!($productos)) {
                         $salida = $salida_error->response(204, '');
                     } 
@@ -186,495 +210,12 @@ class AsistenciaController extends BaseController
                     writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
                     $salida = $salida_error->response(500, $e->getMessage());
                 }
-            }
-            
+                break;*/
         }
 
         $this->sendOutput(
             json_encode($salida),
             array($salida->error->Descripcion, $salida->error->CodigoHttp)
         );
-       
-    }
-   /* public function producto($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        
-        if ($method === 'get') {
-            $var = $this->getQueryStringParams();
-
-            if (isset($var['id_vendedor']) && $var['id_vendedor'] && isset($var['id_producto']) && $var['id_producto'] ) 
-            {
-                 try 
-                 {
-                    $productos = $producto->productoUsuario($var['id_producto'], $var['id_vendedor']);//???
-                    
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                    
-                } catch (Error $e) 
-                {
-                    writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }else
-            {
-                $salida = $salida_error->response(500, "Datos requeridos");
-                writeLog("ProductoControllerproducto. Datos requeridos", '/logs/app.log');
-            }
-        }
-        if ($method === 'post') {
-            $var = $this->PostFromData();
-        
-               try {
-                    
-                    $con = [
-                        'nombre' => $var['nombre'],
-                        'id_vendedor' => $var['id_vendedor'],
-                        'tipo' => $var['tipo'],
-                        'descripcion' => $var['descripcion'],
-                        'categoria' => $var['categoria'],
-                        'precio' => $var['precio'],
-                        'stock' => $var['stock'],
-                        'unidad' => $var['unidad'],
-                        'disponibilidad' => $var['disponibilidad'],
-                        'estado' => $var['estado'],
-                        'imagenes' => $var['imagenes'],
-                        'caracteristicas' =>$var['caracteristicas']
-                    ];
-
-                    $productos = $producto->postProductoUsuario($con);
-                     if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                     
-                } catch (Error $e) 
-                {
-                    writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            
-        if ($method === 'delete') {
-          $var = $this->getQueryStringParams();
-    
-             if (isset($var['id_producto']) && $var['id_producto']) {
-               try {
-                    $productos = $producto->eliminarproducto($var);
-                        
-                    if (!($productos)) 
-                    {
-                            $salida = $salida_error->response(204, '');
-                            } else {
-                                $salida = $salida_error->response(200, '');
-                                $salida->datos = $productos;
-                    }                        
-                    } catch (Error $e) {
-                        $salida = $salida_error->response(500, $e->getMessage());
-                    } 
-                }
-                else {
-                        $salida = $salida_error->response(500, $e->getMessage());
-                    }
-                   
-                }          
-        
-            $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }
-    
-    public function lista($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        if ($method === 'get') {
-            $var = $this->getQueryStringParams();
-
-            if (isset($var['id_usuario']) && $var['id_usuario']) {
-                try {
-                    $productos = $producto->listaxusuario($var['id_usuario']);
-                    
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                    
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            else {
-                try {
-                    $productos = $producto->getlista();
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-                
-            }
-            
-        } else {
-            $salida = $salida_error->response(422, '');
-        }
-        $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }
-
-    public function listaxusuario($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        
-        if ($method === 'get') {
-            $var = $this->getQueryStringParams();
-
-            if (isset($var['id_usuario']) && $var['id_usuario']) {
-                try {
-                    $productos = $producto->ListaXUsuario($var['id_usuario']);
-                    
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                    
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            else {
-                $salida = $salida_error->response(500, $e->getMessage());
-            }            
-        } 
-        
-        if ($method === 'delete') {
-            $var = $this->getQueryStringParams();
-
-            if (isset($var['id_producto']) && $var['id_producto']) {
-                try {
-                    $productos = $producto->eliminarproducto($var['id_producto']);
-                    
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                    
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            else {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-                
-            }
-        else {
-            $salida = $salida_error->response(422, '');
-        }
-        
-        $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }
-
-    public function productoxid($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        
-        if ($method === 'get') {
-            $var = $this->getQueryStringParams();
-            try 
-            {
-            $productos = $producto->productoXid($var['id_producto']);
-            
-                if (!($productos)) {
-                    $salida = $salida_error->response(204, '');
-                } 
-                else {
-                    $salida = $salida_error->response(200, '');
-                    $salida->datos = $productos;
-                }
-            
-            } catch (Error $e) 
-            {
-                writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                $salida = $salida_error->response(500, $e->getMessage());
-            }
-        }
-        if($method === 'put')
-        {
-            $var = $this->PutFromData();
-            
-            $uriSegments = $this->getUriSegments();
-            foreach ($uriSegments as $segment) {
-                if (is_numeric($segment)) {
-                    $condicion=['id_producto' =>(int)$segment ];
-                    break;
-                }
-            }
-
-                try {
-                    $con = [
-                        'nombre' => $var['nombre'],
-                        'tipo'=> $var['tipo'],
-                        'descripcion'=> $var['descripcion'],
-                        'categoria'=> $var['categoria'],
-                        'precio'=> $var['precio'],
-                        'stock'=> $var['stock'],
-                        'unidad'=> $var['unidad'],
-                        'disponibilidad'=> $var['disponibilidad'],
-                        'estado'=> $var['estado'],
-                        'id_vendedor'=> $var['id_vendedor'],
-                        'imagenes'=> $var['imagenes'],
-                        'caracteristicas' =>$var['caracteristicas']
-                    ];
-                    $rutas = [];
-                    foreach ($var['imagenesserver'] as $imagen) {
-                        $rutas[] = $imagen['ruta'];
-                    }
-                    
-                    $result = $producto->putProducto($con, $condicion, $rutas);
-                    if (!($result)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $result;
-                    }
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-        }
-        $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }
-    public function tienda($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        
-        if ($method === 'get') {
-            $var = $this->getQueryStringParams();
-
-            if (isset($var['tienda']) && $var['tienda']) {
-                try {
-                    $productos = $producto->Listatienda($var['tienda']);
-                    
-                    if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                    
-                } catch (Error $e) {
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            }
-            else {
-                $salida = $salida_error->response(500, $e->getMessage());
-            }            
-        }
-        if($method === 'post')
-        {
-            $var = $this->PostFromData();
-        
-               try {
-                    $con= [
-                        'nombre' => $var['nombre'],
-                        'id_vendedor' => $var['id_vendedor'],
-                        'logo' => $var['imagenelogo'],
-                        'banner' => $var['imagenebanner'],
-                        'telefono' => $var['telefono'],
-                        'direccion' => $var['direccion'],
-                        'linkdireccion' => $var['linkdireccion'],
-                        'rut' => $var['rut'],
-                    ];
-
-                    $productos = $producto->postTiendaInfo($con);
-                    
-                     if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-
-                        if($productos['status']=='fail')
-                        {
-                            $salida = $salida_error->response(404, $productos['datos']);
-                        }
-                        else
-                        {
-                            $salida = $salida_error->response(200, '');
-                            $salida->datos = $productos['datos'];
-                        }
-                    }
-                     
-                } catch (Error $e) 
-                {
-                    writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            } 
-            
-         if($method === 'put')
-         {
-            $var = $this->PostFromData();
-        
-            try {
-                 $con= [
-                     'nombre' => $var['nombre'],
-                     'id_vendedor' => $var['id_vendedor'],
-                     'logo' => $var['imagenelogo'],
-                     'banner' => $var['imagenebanner'],
-                     'telefono' => $var['telefono'],
-                     'direccion' => $var['direccion'],
-                     'linkdireccion' => $var['linkdireccion'],
-                     'rut' => $var['rut'],
-                 ];
-
-                 $productos = $producto->putTiendaInfo($con);
-                 
-                  if (!($productos)) {
-                     $salida = $salida_error->response(204, '');
-                 } 
-                 else {
-                    if($productos['status']=='fail')
-                    {
-                        $salida = $salida_error->response(404, $productos['datos']);
-                    }
-                    else
-                    {
-                     $salida = $salida_error->response(200, '');
-                     $salida->datos = $productos['datos'];
-                    }
-                 }
-                  
-             } catch (Error $e) 
-             {
-                 writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                 $salida = $salida_error->response(500, $e->getMessage());
-             }
-         }   
-        
-        
-         $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }
-
-    public function MetodoPago($method)
-    {
-        $producto = new ProductoService();
-        $salida_error = new salidaError();
-        $salida = new salida_error();
-        
-        if($method === 'post')
-        {
-            $var = $this->PostFromData();
-        
-               try {
-                    $con= [
-                        'nombre' => $var['nombre'],
-                        'id_vendedor' => $var['id_vendedor'],
-                        'public_key' => $var['public_key'],
-                        'priv_key' => $var['priv_key'],
-                        'secret_event' => $var['secret_event'],
-                        'secret_integr' => $var['secret_integr'],
-                    ];
-                    
-                    $productos = $producto->postFormaPago($con);
-                    
-                     if (!($productos)) {
-                        $salida = $salida_error->response(204, '');
-                    } 
-                    else {
-                        $salida = $salida_error->response(200, '');
-                        $salida->datos = $productos;
-                    }
-                     
-                } catch (Error $e) 
-                {
-                    writeLog("ProductoControllerproducto. ".$e->getMessage(), '/logs/app.log');
-                    $salida = $salida_error->response(500, $e->getMessage());
-                }
-            } 
-            
-         if($method === 'put')
-         {
-            $var = $this->PostFromData();
-            $uriSegments = $this->getUriSegments();
-            foreach ($uriSegments as $segment) {
-                if (is_numeric($segment)) {
-                    $id_vendedor=(int)$segment;
-                    break;
-                }
-            }
-            try {
-                $con= [
-                    'nombre' => $var['nombre'],
-                    'id_vendedor' => $id_vendedor,
-                    'public_key' => $var['public_key'],
-                    'priv_key' => $var['priv_key'],
-                    'secret_event' => $var['secret_event'],
-                    'secret_integr' => $var['secret_integr'],
-                ];
-
-                 $productos = $producto->putFormaPago($con);
-                 
-                  if (!($productos)) {
-                     $salida = $salida_error->response(204, '');
-                 } 
-                 else {
-                     $salida = $salida_error->response(200, '');
-                     $salida->datos = $productos;
-                 }
-                  
-             } catch (Error $e) 
-             {
-                 writeLog("ProductoController.MetodoPago. ".$e->getMessage(), '/logs/app.log');
-                 $salida = $salida_error->response(500, $e->getMessage());
-             }
-         }  
-        
-        
-        $this->sendOutput(
-            json_encode($salida),
-            array($salida->error->Descripcion, $salida->error->CodigoHttp)
-        );
-    }*/
-    
-    
+    }   
 }

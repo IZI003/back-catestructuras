@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/BaseController.php';
 
-require_once __DIR__ . '/../SERVICIOS/Client.class.php';
+require_once __DIR__ . '/../SERVICIOS/UsuarioService.php';
 require_once __DIR__ . '/../MiLog.php';
 
 class UsuarioController extends BaseController
@@ -70,7 +70,7 @@ class UsuarioController extends BaseController
             if (isset($var['id']) && $var['id']) {
                 try {
 
-                    $con = ['usuario_id' => $var['id']];
+                    $con = ['id' => $var['id']];
 
                     $usuarioxid = $usuario->get($con);
                     if (!($usuarioxid)) {
@@ -122,7 +122,7 @@ class UsuarioController extends BaseController
             $uriSegments = $this->getUriSegments();
             foreach ($uriSegments as $segment) {
                 if (is_numeric($segment)) {
-                    $condicion=['usuario_id' =>(int)$segment ];
+                    $condicion=['id_usuario' =>(int)$segment ];
                     break;
                 }
             }

@@ -2,6 +2,8 @@
 require_once __DIR__ . '/../INCLUDES/DatabaseHandler.php';
 require_once __DIR__ . '/../MiLog.php';
 require_once __DIR__ . '/../vendor/autoload.php'; // Importante
+require_once __DIR__ . '/AsistenciaService.php';
+
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Reader\Xls;
 
@@ -54,7 +56,7 @@ class DocumentosService
             die("No se encuentra autoload.php en el path esperado");
         }
         $resultado = [];
-
+        $limpieza=false; //pasar una sola vez la limpieza de ese dia.
         if ($tipo === 'hikvision') {
             $spreadsheet = IOFactory::load($ruta);
             $hoja = $spreadsheet->getActiveSheet();
@@ -96,7 +98,13 @@ class DocumentosService
                 $fecha   = $valores[3]; // Fecha en formato yyyy-mm-dd
                 $horas   = [$valores[4], $valores[5], $valores[6], $valores[7]]; // Horas AM/PM
        // writeLog("DocumentosController.procesarArchivo. nombre ".$nombre);
-        
+                //controlamos si ya se guardo para esa fecha la asistencia 
+                if(!$limpieza)
+                {
+                    $this->eliminar_registros($fecha, $tipo);
+                    $limpieza =true;
+                }
+
                 foreach ($horas as $hora) {
                     $fechaHora = $this->formatearHora($hora, $fecha);
                     if ($fechaHora) {
@@ -147,7 +155,8 @@ class DocumentosService
             'legajo'   => $registro['legajo'],
             'nombre'   => $registro['nombre'],
             'fecha_hora'  => $registro['fechaHora'],
-            'f_creacion'    => date('Y-m-d H:i:s')
+            'f_creacion'    => date('Y-m-d H:i:s'),
+            'tipo_origen'  => $registro['tipo_origen'],
         ];
         
         // Insertar en base de datos (ajusta según tu clase y método de inserción)
@@ -163,6 +172,14 @@ class DocumentosService
         ];
 
         return $salida;
+    }
+
+    private function eliminar_registros($fecha, $tipo)
+    {
+        $sql = "DELETE FROM rrhh_reloj 
+                WHERE DATE(fecha_hora) = '".$fecha."' AND tipo_origen = ".$tipo;
+
+        $this->dbHandler->querySrting($sql); 
     }
 
     public function exportarPorFecha($fecha)
@@ -228,6 +245,31 @@ class DocumentosService
         return !empty($registros);
     }
 
+    public function tieneRegistros_legajo($anio, $mes, $legajo)
+    {
+          $fecha_desde = "$anio-$mes-01";
+          $fecha_hasta = date("Y-m-t", strtotime($fecha_desde)); // último día del mes
+
+        $sql = "SELECT 1 FROM rrhh_reloj
+                 WHERE DATE(fecha_hora)  > '".$fecha_desde."' 
+                 AND DATE(fecha_hora)  < '".$fecha_hasta."' 
+                 AND legajo= ".$legajo."
+                  LIMIT 1";
+        $registros = $this->dbHandler->querySrting($sql); 
+
+        return !empty($registros);
+    }
+
+    public function tieneRegistros_Rango_fecha($fecha_desde, $fecha_hasta)
+    {
+        $sql = "SELECT 1 FROM rrhh_reloj
+                 WHERE DATE(fecha_hora)  >= '".$fecha_desde."' 
+                 AND DATE(fecha_hora)  <= '".$fecha_hasta."' 
+                  LIMIT 1";
+        $registros = $this->dbHandler->querySrting($sql); 
+
+        return !empty($registros);
+    }
     public function importarPersonal($rutaExcel) {
 
      //  writeLog("DocumentosController.importarPersonal. INIO ");
@@ -266,5 +308,65 @@ class DocumentosService
         } catch (\Exception $e) {
             return ['success' => false, 'mensaje' => 'Error al importar: ' . $e->getMessage()];
         }
+    }
+
+    public function exportarPor_Fecha_Legajo($legajo, $anio, $mes, $fechaDesde, $fechaHasta )
+    {
+        $asistencia_serv = new AsistenciaService();
+        $titulo="";
+        $registros ="";
+        if(isset($legajo)&& isset($anio) && isset($mes))
+        {
+            $titulo =" del $legajo fecha $mes-$anio";
+            $registros = $asistencia_serv->lista_asistencia_por_legajo($legajo, $anio, $mes);
+        }else
+        {
+            $titulo ="desde ".str_replace('/', '-', $fechaDesde);
+            $registros = $asistencia_serv->lista_asistencia($fechaDesde, $fechaHasta);
+        }
+    
+        if (!$registros || count($registros) === 0) {
+            http_response_code(204); // No Content
+            exit;
+        }
+
+        // Crear Excel en memoria
+        $spreadsheet = new Spreadsheet();
+        $sheet = $spreadsheet->getActiveSheet();
+        $sheet->setTitle("Registros $titulo");
+
+        // Encabezados
+        $sheet->fromArray(['legajo', 'nombre', 'fecha_hora', 'estado'], NULL, 'A1');
+
+        // Cargar datos con estado
+        $fila = 2;
+        foreach ($registros as $r) {
+
+            $fechaOriginal = $r['fechaHora'];
+            $fechaFormateada = '';
+            if (!empty($fechaOriginal)) {
+                $dt = DateTime::createFromFormat('Y-m-d H:i:s.u', $fechaOriginal);
+                if (!$dt) {
+                    $dt = DateTime::createFromFormat('Y-m-d H:i:s', $fechaOriginal);
+                }
+                $fechaFormateada = $dt ? $dt->format('d/m/Y H:i') : '';
+            }
+            $sheet->setCellValue("A$fila", $r['legajo']);
+            $sheet->setCellValue("B$fila", $r['nombre']);
+            $sheet->setCellValue("C$fila", $fechaFormateada);
+            $sheet->setCellValue("D$fila", $r['estado']);
+            $fila++;
+        } 
+
+        // Salida directa como archivo de descarga
+        header('Content-Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet');
+        header('Content-Disposition: attachment; filename="registros_' .$titulo. '.xlsx"');
+        header('Cache-Control: max-age=0');
+
+        $writer = new Xlsx($spreadsheet);
+        ob_clean();
+        flush();
+        $writer->save('php://output');
+        exit; // Terminar script
     }
 }

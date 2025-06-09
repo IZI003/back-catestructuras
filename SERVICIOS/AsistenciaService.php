@@ -27,22 +27,57 @@ class AsistenciaService
 
     public function lista_asistencia($fecha_desde, $fecha_hasta)
     {
-
-            $sql="SELECT usua.legajo, usua.nombre,  reloj.fecha_hora as fechaHora, 
+            $sql="SELECT usua.legajo, usua.nombre, reloj.fecha_hora as fechaHora, 
                         CASE 
                                 WHEN reloj.fecha_hora IS NULL THEN 'No registra'
-                                WHEN TIME(reloj.fecha_hora) BETWEEN '07:00:00' AND '08:10:00' THEN 'OK'
-                                WHEN TIME(reloj.fecha_hora) > '08:10:00' THEN 'TARDE'
+                                WHEN TIME(reloj.fecha_hora) BETWEEN '07:00:00' AND '08:11:00' THEN 'OK'
+                                WHEN TIME(reloj.fecha_hora) > '08:11:00' THEN 'TARDE'
+                                WHEN TIME(reloj.fecha_hora) > '13:00:00' THEN 'salida'
                                 ELSE 'No registra'
                             END AS estado
                     FROM personal usua 
                     LEFT JOIN rrhh_reloj reloj on reloj.legajo = usua.legajo 
-                    AND DATE(reloj.fecha_hora) BETWEEN '".$fecha_desde."' AND '".$fecha_desde."'
+                     AND DATE(reloj.fecha_hora) BETWEEN '$fecha_desde' AND '$fecha_hasta'
                 ";
      //   writeLog("AsistenciaService.lista_asistencia. QUERY: ".$sql);
 
             return $this->dbHandler->querySrting($sql); 
     }
+
+    public function lista_asistencia_por_legajo($legajo, $anio, $mes)
+        {
+        $fecha_desde = "$anio-$mes-01";
+        $fecha_hasta = date("Y-m-t", strtotime($fecha_desde)); // último día del mes
+
+        $sql = "
+                        WITH RECURSIVE fechas AS (
+                                SELECT DATE('$fecha_desde') AS fecha
+                                UNION ALL
+                                SELECT DATE_ADD(fecha, INTERVAL 1 DAY)
+                                FROM fechas
+                                WHERE fecha < DATE('$fecha_hasta')
+                        )
+                        SELECT 
+                                '$legajo' AS legajo,
+                                usua.nombre,
+                                CONCAT(fechas.fecha, ' ', TIME(IFNULL(reloj.fecha_hora, '00:00:00'))) AS fechaHora,
+                                CASE 
+                                WHEN reloj.fecha_hora IS NULL THEN 'No registra'
+                                WHEN TIME(reloj.fecha_hora) BETWEEN '07:00:00' AND '08:11:00' THEN 'OK'
+                                WHEN TIME(reloj.fecha_hora) BETWEEN '08:11:00' AND '12:00:00' THEN 'TARDE'
+                                WHEN TIME(reloj.fecha_hora) > '13:00:00' THEN 'salida'
+                                ELSE 'No registra'
+                                END AS estado
+                        FROM fechas
+                        LEFT JOIN rrhh_reloj reloj 
+                                ON DATE(reloj.fecha_hora) = fechas.fecha 
+                                AND reloj.legajo = '$legajo'
+                        LEFT JOIN personal usua ON usua.legajo = '$legajo'
+                        ORDER BY fechas.fecha
+                        ";
+
+        return $this->dbHandler->querySrting($sql);
+        }
 
     public function lista_Personal()
     {

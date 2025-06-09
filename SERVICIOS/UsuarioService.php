@@ -41,7 +41,7 @@ class UsuarioService
 
             return $this->dbHandler->querySrting($sql); 
     }
-   /* public function get($condiciones)
+    public function get($condiciones)
     {
         return  $this->dbHandler->get($this->table, $condiciones);
     }
@@ -209,6 +209,6 @@ class UsuarioService
         }
 
         return array_values($ventas);
-    }*/
+    }
 
 }

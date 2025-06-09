@@ -146,18 +146,48 @@ class DocumentosController extends BaseController
         
         if ($method === 'get') {
             try {
-             $fecha = $_GET['fecha'] ?? date('Y-m-d');
                 if (isset($_GET['preview']) && $_GET['preview'] === 'true') {
                 // Solo validar si hay datos
-                $hayDatos = $servicio->tieneRegistros($fecha);
+                $hayDatos = null;
+                    if(isset($_GET['fecha']))
+                    {
+                        $fecha = $_GET['fecha'] ?? date('Y-m-d');
+                        $hayDatos = $servicio->tieneRegistros($fecha);
+                    }
+                    else
+                    {
+                        if(isset($_GET['mes']) && isset($_GET['anio']) && isset($_GET['legajo']))
+                            {
+                                $hayDatos = $servicio->tieneRegistros_legajo($_GET['anio'], $_GET['mes'], $_GET['legajo']);
+                            }
+                          if(isset($_GET['fecha_desde']) && isset($_GET['fecha_hasta']))
+                            {
+                                $hayDatos = $servicio->tieneRegistros_Rango_fecha($_GET['fecha_desde'], $_GET['fecha_hasta']);
+                            }  
+                    }
+
                 header('Content-Type: application/json');
                 echo json_encode([
                     'estado' => $hayDatos ? 'ok' : 'vacio'
                 ]);
                 exit;
             }
+            //para quien exportamos? 
+            if(isset($_GET['mes']) && isset($_GET['anio']) && isset($_GET['legajo']))
+            {
+                return $servicio->exportarPor_Fecha_Legajo($_GET['legajo'], $_GET['anio'], $_GET['mes'], null, null);
+            }
+            else{
+                if(isset($_GET['fecha_desde']) && isset($_GET['fecha_hasta']))
+                    {
+                        return $servicio->exportarPor_Fecha_Legajo(null, null, null, $_GET['fecha_desde'], $_GET['fecha_hasta']);
 
-            return $servicio->exportarPorFecha($fecha);
+                    }  else
+                    {
+                        $fecha = $_GET['fecha'] ?? date('Y-m-d');
+                        return $servicio->exportarPorFecha($fecha);
+                    }
+            }
                 
          } catch (Error $e) {
                 $salida = $salida_error->response(500, $e->getMessage());
