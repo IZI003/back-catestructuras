@@ -1,0 +1,2195 @@
+
+[2025-06-23 16:01:38] DocumentosService.procesarArchivo. INIO 
+[2025-06-23 16:01:38] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:52:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:27:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:50:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:28:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:48:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:28:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre Gonzalez Fer
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:53:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 15:52:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:55:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:30:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre Gonzalez Jua
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 08:01:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:43:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre Bazan Carlos
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 08:00:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:28:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 07:27:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR fechaHora 2025/06/19 17:43:00
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. CELDAS
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. datos
+[2025-06-23 16:01:39] DocumentosController.procesarArchivo. nombre 
+[2025-06-23 16:01:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 13:45:40] DocumentosService.procesarArchivo. INIO 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. INIO 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:47:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:27:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:00:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:42:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre MARIELA DIAZ
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:55:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:55:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:46:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:43:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 08:03:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 15:33:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 08:01:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. CELDAS
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. datos
+[2025-06-25 14:50:54] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 07:27:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 13:07:00
+[2025-06-25 14:50:54] DocumentosService.procesarArchivo. POR fechaHora 2025/06/24 17:29:00
+[2025-06-27 13:24:31] DocumentosService.procesarArchivo. INIO 
+[2025-06-27 13:32:24] DocumentosService.procesarArchivo. INIO 
+[2025-06-30 15:33:12] DocumentosService.procesarArchivo. INIO 
+[2025-06-30 15:33:12] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 07:48:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:27:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 07:22:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:28:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre MARIELA DIAZ
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 08:01:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:28:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 08:02:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:29:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:39:00
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. CELDAS
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. datos
+[2025-06-30 15:33:14] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-06-30 15:33:14] DocumentosService.procesarArchivo. POR fechaHora 2025/06/23 17:37:00
+[2025-07-10 12:07:56] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 11:24:35] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 11:46:19] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 11:49:04] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:16:45] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:16:53] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:18:45] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:20:37] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:23:00] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:25:09] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:26:35] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:27:48] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:29:20] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:36:29] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 14:36:29] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:53:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:28:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 06:59:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:43:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:29:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:02:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:55:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 15:22:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:01:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. datos
+[2025-07-14 14:36:30] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:27:00
+[2025-07-14 14:36:30] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:49:00
+[2025-07-14 18:39:38] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 18:39:38] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:55:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:53:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:28:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:18:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:32:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:44:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:05:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:04:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:59:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:05:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:57:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 18:44:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:01:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:28:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:39:39] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:20:00
+[2025-07-14 18:39:39] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 18:10:00
+[2025-07-14 18:45:04] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 18:45:04] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:56:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:48:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:27:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 06:59:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:28:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:54:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:53:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:00:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:56:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 15:57:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:02:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:00:00
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:45:05] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:45:05] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:10:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:49:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:27:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 06:59:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:16:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:56:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:01:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:56:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 19:07:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:01:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:49:10] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:49:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:16:00
+[2025-07-14 18:53:46] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 18:53:46] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:58:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:48:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 06:59:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:28:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:19:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:30:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:06:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:30:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:55:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 19:36:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:00:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:28:00
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:53:47] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:53:47] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:27:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:55:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:28:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:28:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:30:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:58:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:38:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:30:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:58:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:32:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 08:01:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:29:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:55:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 15:25:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 08:00:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:29:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. datos
+[2025-07-14 18:57:01] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:49:00
+[2025-07-14 18:57:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:39:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:56:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:51:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:46:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:57:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:43:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:22:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:56:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:14:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:52:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 16:22:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:02:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:29:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:02:29] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:46:00
+[2025-07-14 19:02:29] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:47:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. INIO 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:54:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:51:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:55:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:59:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 08:06:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:31:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:57:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 13:55:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:03] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:52:00
+[2025-07-14 19:14:03] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:32:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:54:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:51:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:55:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:59:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 08:06:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:31:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:57:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 13:55:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. CELDAS
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. datos
+[2025-07-14 19:14:04] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:52:00
+[2025-07-14 19:14:04] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:32:00
+[2025-07-16 11:30:28] DocumentosService.procesarArchivo. INIO 
+[2025-07-16 12:49:07] DocumentosService.procesarArchivo. INIO 
+[2025-07-21 13:44:42] DocumentosService.procesarArchivo. INIO 
+[2025-07-21 13:44:59] DocumentosService.procesarArchivo. INIO 
+[2025-07-21 13:54:45] DocumentosService.procesarArchivo. INIO 
+[2025-07-21 13:55:17] DocumentosService.procesarArchivo. INIO 
+[2025-07-21 13:55:17] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:58:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:52:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:49:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 18:23:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:53:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:53:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:48:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:49:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:48:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:48:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:47:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 13:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 06:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:18:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 06:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 06:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 06:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:47:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:43:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:37:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 17:31:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:19:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:58:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:38:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 17:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:43:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:33:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 19:38:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:43:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:44:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:53:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:16:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 18:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:22:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:50:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:47:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:43:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:05:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre AYOSA KEVIN
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:04:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre LEIVA LEONAR
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BARRIENTOS F
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:02:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:06:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:58:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 07:58:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 17:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 08:08:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 08:02:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 08:04:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 08:11:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 18:23:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:08:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:05:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:03:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:04:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:14:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 08:06:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:31:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 08:16:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 08:06:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 08:03:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:35:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 08:05:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 08:07:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 15:22:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 18:44:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 15:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 07:56:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 19:07:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 19:36:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 15:25:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 07:50:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/09 18:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:52:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 16:22:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 07:52:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 15:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:45:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:51:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 16:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 07:54:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 19:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:02:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 17:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 08:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 08:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 08:02:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 13:55:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 08:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 08:02:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:28:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 07:59:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:29:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 08:00:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 08:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/01 17:49:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 07:20:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/02 18:10:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/03 08:10:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/04 08:16:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/07 07:27:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 07:49:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/08 17:39:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 07:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/10 17:47:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 07:52:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/11 17:32:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 07:57:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/14 09:30:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 08:01:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/15 17:47:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 07:58:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/16 17:46:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 08:10:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/17 17:52:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. CELDAS
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. datos
+[2025-07-21 13:55:18] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 08:05:00
+[2025-07-21 13:55:18] DocumentosService.procesarArchivo. POR fechaHora 2025/07/18 18:05:00
+[2025-07-23 11:19:31] DocumentosService.procesarArchivo. INIO 
+[2025-07-25 11:28:15] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:29:50] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:37:35] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:37:35] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:37:49] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:38:01] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:38:13] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:38:23] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:39:01] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:39:01] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:55:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:49:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:42:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:33:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:56:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:27:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:17:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:29:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:00:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 19:46:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:02:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:02] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:39:02] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 18:10:00
+[2025-07-28 11:39:21] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:39:21] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:55:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:49:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:42:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:33:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:56:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:27:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:17:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:29:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:00:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 19:46:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:02:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:39:22] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:39:22] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 18:10:00
+[2025-07-28 11:40:43] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:40:43] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:55:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:49:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:42:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:33:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:56:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:27:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:17:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:29:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:00:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 19:46:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:02:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:44] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:40:44] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 18:10:00
+[2025-07-28 11:40:53] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:40:53] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:55:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:49:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:42:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:33:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:56:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:27:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:17:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:29:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:00:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 19:46:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 08:02:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 17:28:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:40:54] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 07:37:00
+[2025-07-28 11:40:54] DocumentosService.procesarArchivo. POR fechaHora 2025/07/21 18:10:00
+[2025-07-28 11:50:00] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:50:00] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:59:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:28:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:27:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:32:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:02:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:30:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:07:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:30:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:13:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 19:09:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:02:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:01] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:07:00
+[2025-07-28 11:50:01] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:57:00
+[2025-07-28 11:50:22] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:50:22] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:59:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:28:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:27:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:32:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:58:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:02:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:30:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:07:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:30:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 07:13:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 19:09:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:02:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:29:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:23] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 08:07:00
+[2025-07-28 11:50:23] DocumentosService.procesarArchivo. POR fechaHora 2025/07/22 17:57:00
+[2025-07-28 11:50:48] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:50:48] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:51:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:50:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:48:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 17:28:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:51:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:56:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:48:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:48:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:51:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:55:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 17:29:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 07:49:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 17:29:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 08:01:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 17:38:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 08:02:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:50:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:50:49] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 08:02:00
+[2025-07-28 11:50:49] DocumentosService.procesarArchivo. POR fechaHora 2025/07/23 18:42:00
+[2025-07-28 11:51:09] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:51:09] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:54:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 18:56:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:47:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 17:29:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:55:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 19:24:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 08:00:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 17:56:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:45:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 19:26:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 08:08:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 17:29:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:57:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 18:07:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 08:02:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 18:57:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:10] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 07:59:00
+[2025-07-28 11:51:10] DocumentosService.procesarArchivo. POR fechaHora 2025/07/24 18:52:00
+[2025-07-28 11:51:16] DocumentosService.procesarArchivo. INIO 
+[2025-07-28 11:51:16] DocumentosService.procesarArchivo. TIPO gadnic 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. INGGRESO AL ARCHIVO
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre AYOSA FABIAN
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:52:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre PERALTA WAL
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:47:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre Lara Pacheco
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:37:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre BARRIENTOS G
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 08:03:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre Brizuela Jor
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:46:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre SILVA SEBAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 08:02:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre GONZALEZ JUA
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 08:10:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre GONZALEZ FER
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:57:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 15:50:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre BAZAN CARLOS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 08:00:00
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. CELDAS
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. datos
+[2025-07-28 11:51:17] DocumentosController.procesarArchivo. nombre GIMENEZ SOL
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR ENTRAR AL FOREACH 
+[2025-07-28 11:51:17] DocumentosService.procesarArchivo. POR fechaHora 2025/07/25 07:38:00
+[2025-07-28 14:42:22] DocumentosService.procesarArchivo. INIO 
+[2025-07-30 11:59:18] DocumentosService.procesarArchivo. INIO 
+[2025-08-06 11:21:06] DocumentosService.procesarArchivo. INIO 
+[2025-08-12 12:34:17] DocumentosService.procesarArchivo. INIO 
+[2025-08-12 12:39:28] DocumentosService.procesarArchivo. INIO 
+[2025-08-12 12:39:39] DocumentosService.procesarArchivo. INIO 
+[2025-08-12 14:24:44] DocumentosService.procesarArchivo. INIO 
+[2025-08-13 11:28:53] DocumentosService.procesarArchivo. INIO 
+[2025-08-13 12:44:18] DocumentosService.procesarArchivo. INIO 
+[2025-08-13 12:55:30] DocumentosService.procesarArchivo. INIO 
+[2025-08-14 12:07:37] DocumentosService.procesarArchivo. INIO 
+[2025-08-14 12:19:23] DocumentosService.procesarArchivo. INIO 
+[2025-08-14 12:27:17] DocumentosService.procesarArchivo. INIO 
+[2025-08-14 12:41:41] DocumentosService.procesarArchivo. INIO 
+[2025-08-15 11:29:58] DocumentosService.procesarArchivo. INIO 
+[2025-08-15 11:43:51] DocumentosService.procesarArchivo. INIO 
+[2025-08-18 11:30:19] DocumentosService.procesarArchivo. INIO 
+[2025-08-18 11:38:18] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 11:24:10] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 11:34:32] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 12:34:09] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 12:36:23] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 13:57:03] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 15:37:18] DocumentosService.procesarArchivo. INIO 
+[2025-08-19 15:51:19] DocumentosService.procesarArchivo. INIO 
+[2025-08-20 11:19:07] DocumentosService.procesarArchivo. INIO 
+[2025-08-20 11:22:57] DocumentosService.procesarArchivo. INIO 
+[2025-08-21 11:21:38] DocumentosService.procesarArchivo. INIO 
+[2025-08-21 11:56:11] DocumentosService.procesarArchivo. INIO 
+[2025-08-21 12:02:40] DocumentosService.procesarArchivo. INIO 
+[2025-08-22 11:50:42] DocumentosService.procesarArchivo. INIO 
+[2025-08-22 11:57:38] DocumentosService.procesarArchivo. INIO 
