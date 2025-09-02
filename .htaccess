@@ -1,18 +1,7 @@
 
 RewriteEngine On
-
-<IfModule mod_headers.c>
-Header set Access-Control-Allow-Origin "*"
-
-    Header set Access-Control-Allow-Origin "http://localhost:4200"
-    Header set Access-Control-Allow-Origin "http://localhost/catestructuras/uploads"
-    
-    Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
-    Header set Access-Control-Allow-Headers "Content-Type, Authorization, X-Requested-With"
-    Header set Access-Control-Allow-Credentials "true"
-</IfModule>
-
-RewriteEngine On
+# Variables de entorno
+SetEnv APP_ENV dev
 
 # Si el archivo o directorio existe, no se reescribe la URL
 RewriteCond %{REQUEST_FILENAME} -f [OR]

@@ -1,6 +1,5 @@
 <?php
 require_once __DIR__ . '/INCLUDES/cors.php';
-require __DIR__ . "/INCLUDES/Paquete.php";
 require __DIR__ . "/INCLUDES/salidaError.php";
 require_once __DIR__ . '/MiLog.php';
 

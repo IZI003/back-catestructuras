@@ -1,25 +1,34 @@
 <?php
-$allowed_origins = ['http://localhost:4200', 'http://catestructuras'];
-$origin = $_SERVER['HTTP_ORIGIN'] ?? '';
+require __DIR__ . '/../vendor/autoload.php'; 
+use Dotenv\Dotenv;
+//require_once __DIR__ . '/../MiLog.php';
 
-if (in_array($origin, $allowed_origins)) {
-    header("Access-Control-Allow-Origin: $origin");
-    header("Access-Control-Allow-Credentials: true");
+//writeLog("cors.php INICIO");
+
+// Detecta APP_ENV (viene de .htaccess o sistema)
+$appEnv = getenv('APP_ENV') ?: 'prod';
+
+// Carga el .env correspondiente
+$dotenvFile = ".env.$appEnv";
+if (file_exists(__DIR__ . "/../$dotenvFile")) {
+    $dotenv = Dotenv::createImmutable(__DIR__ . '/../', $dotenvFile);
+    $dotenv->load();
+} else {
+    $dotenv = Dotenv::createImmutable(__DIR__ . '/../');
+    $dotenv->safeLoad();
 }
 
+$allowedOrigin = getenv('CORS_ALLOWED_ORIGIN') ?: '*';
+//writeLog("cors. Allowed Origin: $allowedOrigin");
 
-// Encabezados para permitir CORS
-//header("Access-Control-Allow-Origin: http://catestructuras"); // Permite solicitudes desde tu frontend
-header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS"); // Métodos permitidos
-header("Access-Control-Allow-Headers: Content-Type, Authorization"); // Encabezados permitidos
-//header("Access-Control-Allow-Credentials: true"); // Permite cookies/sesiones si es necesario
+// Encabezados de CORS completos
+header("Access-Control-Allow-Origin: $allowedOrigin");
+header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
+header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
+header("Access-Control-Allow-Credentials: true");
 
-// Manejar solicitudes preflight (OPTIONS)
+// Manejar preflight (OPTIONS)
 if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
-  //  header("Access-Control-Allow-Origin: http://catestructuras");
-    header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
-    header("Access-Control-Allow-Headers: Content-Type, Authorization, X-Requested-With");
-  //  header("Access-Control-Allow-Credentials: true");
     http_response_code(200);
     exit();
 }

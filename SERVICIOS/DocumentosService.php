@@ -297,7 +297,7 @@ class DocumentosService
      //  writeLog("DocumentosController.importarPersonal. INIO ");
 
         try {
-            require_once 'vendor/autoload.php'; // asegúrate de que esto esté ya incluido
+           // require_once '/../vendor/autoload.php'; // asegúrate de que esto esté ya incluido
             $reader = new Xls(); 
             $spreadsheet = $reader->load($rutaExcel);
             $hoja = $spreadsheet->getSheetByName('Sheet1');
@@ -319,10 +319,13 @@ class DocumentosService
                 ];
                 $this->dbHandler->insert('personal', $registro);
 
-                        }
+            }
+            $sql="SELECT * FROM personal order by legajo";
             
+            $datos= $this->dbHandler->querySrting($sql); 
             $salida = [
-            'status' =>"OK"
+                'datos' => $datos,
+            'estado' =>"OK"
             ];
 
             return $salida;

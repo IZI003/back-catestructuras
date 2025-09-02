@@ -1,15 +1,11 @@
 <?php
-require __DIR__ . '/vendor/autoload.php'; // Autoload de Composer
+
+require  __DIR__. '/../vendor/autoload.php'; // Autoload de Composer
 
 use Dotenv\Dotenv;
 
 class Database
 {
-    /* private $host = 'localhost';
-     private $usuario = 'catestructuras';
-     private $password = '@hBG*lo[_tAp9jq1';
-     private $database = 'catestructuras';*/
-
     private $host;
     private $usuario;
     private $password;
@@ -19,8 +15,11 @@ class Database
     public function __construct()
     {
         // Carga el .env
-        $dotenv = Dotenv::createImmutable(__DIR__); 
-        $dotenv->load();
+       $appEnv = getenv('APP_ENV') ?: 'prod';
+          // Carga el .env correspondiente
+          $dotenvFile = ".env.$appEnv";
+          $dotenv = Dotenv::createImmutable(__DIR__ . '/../', $dotenvFile);
+          $dotenv->load();
 
         $this->host     = $_ENV['DB_HOST'];
         $this->usuario  = $_ENV['DB_USER'];

@@ -29,7 +29,7 @@ SET time_zone = "+00:00";
 
 DROP TABLE IF EXISTS `personal`;
 CREATE TABLE IF NOT EXISTS `personal` (
-  `ID` int NOT NULL AUTO_INCREMENT,
+  `id` int NOT NULL AUTO_INCREMENT,
   `legajo` int NOT NULL,
   `nombre` varchar(50) NOT NULL,
   `planta` varchar(50) NOT NULL DEFAULT 'planta 1',
